@@ -37,3 +37,9 @@ Relevant coursework included a focus on Data Management and Visualization, Predi
 -	Formed a presentation of Bitcoin analysis using the Tableau Story Mode and uploaded it to YouTube (Click the image below to link to the video).
 
 [![YouTube Video oJ9ydFJOu00](https://img.youtube.com/vi/oJ9ydFJOu00/maxresdefault.jpg)](https://www.youtube.com/watch?v=oJ9ydFJOu00)
+
+*Natural Language Processing Project – Inaugural Address Analysis*
+
+- Developed an NLP pipeline to analyze U.S. presidential inauguration speeches from 1789 to present, extracting trends in sentiment, topic frequency, and linguistic complexity over time.
+- Employed techniques such as tokenization, lemmatization, sentiment analysis, and topic modeling (LDA) to uncover shifts in political rhetoric.
+- Visualized key insights using Python (matplotlib/seaborn/Plotly), revealing historical patterns related to war, economy, unity, and leadership tone.
