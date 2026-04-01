@@ -2,7 +2,7 @@
 
 ### Professional Summary
 
-Experienced data scientist with 2+ years of experience leveraging data analytics and visualization to enhance operational efficiency and optimize supply chain processes. Proficient in developing ETL pipelines, SQL, and Tableau to uncover valuable insights that enhance fleet readiness and resource allocation. Cultivated strong analytical and problem-solving skills in a data-intensive environment, specializing in extracting actionable insights from complex datasets. Demonstrates expertise in statistical analysis, machine learning, and data visualization to support effective decision-making.
+Experienced data scientist with 3+ years of experience leveraging data analytics and visualization to enhance operational efficiency and optimize supply chain processes. Proficient in developing ETL pipelines, SQL, and Tableau to uncover valuable insights that enhance fleet readiness and resource allocation. Cultivated strong analytical and problem-solving skills in a data-intensive environment, specializing in extracting actionable insights from complex datasets. Demonstrates expertise in statistical analysis, machine learning, and data visualization to support effective decision-making.
 
 ### Employment History
 
